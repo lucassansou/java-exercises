@@ -3,10 +3,6 @@ package com.exercicio05.comissao;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )

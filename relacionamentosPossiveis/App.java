@@ -6,7 +6,7 @@ public class App
 {
     public static void main( String[] args )
     {
-    	System.out.println("***** COMISSÂO DE VENDA *****");
+    	System.out.println("***** RELACIONA NÚMEROS *****");
     	
         Scanner entrada = new Scanner(System.in);
         System.out.print("Digite o primeiro número: ");
