@@ -11,16 +11,16 @@ public class App
     	
         Scanner entrada = new Scanner(System.in);
         System.out.print("Digite a identificacao do vendedor: ");
-        double idVendedor = entrada.nextDouble();
+        int idVendedor = entrada.nextInt();
         
         System.out.print("Digite o ID da Peca: ");
-        double idPeca = entrada.nextDouble();
+        int idPeca = entrada.nextInt();
         
         System.out.print("Digite o preço unitario da peca: ");
-        double precoPeca = entrada.nextDouble();
+        float precoPeca = entrada.nextFloat();
         
         System.out.print("Digite a quantidade de peças vendidas: ");
-        double quantidadeVendida = entrada.nextDouble();
+        float quantidadeVendida = entrada.nextFloat();
         
         DecimalFormat df = new DecimalFormat("#.00");
         
