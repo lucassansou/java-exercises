@@ -1,12 +1,7 @@
 package com.exercicio06.idadeEmDias;
 
-import java.text.DecimalFormat;
 import java.util.Scanner;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
