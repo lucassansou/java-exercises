@@ -1,4 +1,4 @@
-package com.exercicio07.relacionamentosPossiveis;
+package com.exercicioJava.relacionamentosPossiveis;
 
 import java.util.Scanner;
 
@@ -17,7 +17,7 @@ public class App
         
         
         System.out.println("Igual = " + (primeiroNum == segundoNum) + "\n" +
-        					"Nao Igual = " + (primeiroNum != segundoNum) + "\n" +
+        					"Diferente = " + (primeiroNum != segundoNum) + "\n" +
         					"Maior = " + (primeiroNum > segundoNum) + "\n" +
         					"Menor = " + (primeiroNum < segundoNum) + "\n" +
         					"Maior ou Igual = " + (primeiroNum >= segundoNum) + "\n" +
